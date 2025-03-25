@@ -2,4 +2,4 @@
 
 Perkenalkan nama saya **Ajeng Nina Riski**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun (https://www.linkedin.com/in/ajeng-nina-65763b351/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun https://www.linkedin.com/in/ajeng-nina/ ku ya.
