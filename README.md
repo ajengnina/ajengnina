@@ -1,13 +1,23 @@
-# Halo semua! 
+# 🌟 Halo semua!  
 
-## **Perkenalkan nama saya **Ajeng Nina Riski**.<br>**
+## **Perkenalkan, saya Ajeng Nina Riski!** 👋  
 
-📷 Follow me on :
+💡 Saya seorang data analyst yang tertarik dengan analisis data, machine learning, dan dashboard interaktif.  
+📊 Saat ini sedang mengerjakan proyek analisis data dan eksplorasi machine learning.  
 
-<a href="https://instagram.com/jenawrin_" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/ajeng-nina/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
+### 🔗 **Temukan saya di:**  
+
+<p align="left">
+  <a href="https://instagram.com/jenawrin_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/ajeng-nina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+🚀 **Mari terhubung dan berbagi ilmu!** 😊  
