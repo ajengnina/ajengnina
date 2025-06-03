@@ -50,4 +50,4 @@ reproducibility.
   
 ---
 
-🚀 **Mari terhubung dan berbagi ilmu!** 😊  
+🚀 **Let's connect and share knowledge!** 😊  
