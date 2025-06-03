@@ -9,7 +9,7 @@ reproducibility.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: Python, SQL, HTML
 - **Data & ML Tools**: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
@@ -19,7 +19,7 @@ reproducibility.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Deep Learning with TensorFlow
 - SQL for Analytics
@@ -27,27 +27,24 @@ reproducibility.
 
 ---
 
-### 🔗 **Let’s Connect!**  
+## 🏆 GitHub Trophy
 
-<p align="left">
-  <a href="https://instagram.com/jenawrin_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/ajeng-nina/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajengnina&theme=gruvbox&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📫 Contact Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="mailto:ajengnina12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-  
+![Ajeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajengnina&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajengnina&layout=compact&theme=gruvbox)
+
+---
+
+## ⏳ GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajengnina&theme=gruvbox&border_radius=5)](https://git.io/streak-stats)
+
 ---
 
 🚀 **Let's connect and share knowledge!** 😊  
