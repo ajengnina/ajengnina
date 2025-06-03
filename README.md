@@ -1,9 +1,12 @@
-# 🌟 Halo semua!  
+# **👋 Hi, I'm Ajeng Nina Riski!** 
 
-## **Perkenalkan, saya Ajeng Nina Riski!** 👋  
+a passionate learner in Data Science and Machine Learning with a strong foundation in Python, data preprocessing, 
+and model evaluation. I'm currently deepening my skills through hands-on projects, including data analysis, 
+predictive modeling, image classification, and end-to-end data pipelines.
 
-💡 Saya seorang data analyst yang tertarik dengan analisis data, machine learning, dan dashboard interaktif.  
-📊 Saat ini sedang mengerjakan proyek analisis data dan eksplorasi machine learning.  
+I enjoy solving real-world problems through data, and I’m especially interested in how technology can drive impactful 
+decisions. My projects reflect not only technical proficiency, but also a commitment to clean code, documentation, and 
+reproducibility.  
 
 ---
 
